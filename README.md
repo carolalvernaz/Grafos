@@ -11,3 +11,4 @@ Os trabalhos estão organizados por tópicos ou entregas específicas da discipl
 | Título | Descrição | Linguagem |
 |--------|-----------|-----------|
 |Lista de Adjacênca|Algoritmo de representação de um grafo como lista de adjacência|C|
+|Busca em Profundidade|Algoritmo de aplicação de busca em profundidade|C|
