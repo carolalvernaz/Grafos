@@ -12,4 +12,4 @@ Os trabalhos estão organizados por tópicos ou entregas específicas da discipl
 |--------|-----------|-----------|
 |Lista de Adjacênca|Algoritmo de representação de um grafo como lista de adjacência|C|
 |Busca em Profundidade|Algoritmo de aplicação de busca em profundidade|C|
-|Caminho Mínimo|Algoritmo de aplicação do algoritmo de Dijkstra para encontrar caminho mínimo em grafos completos e com ciclos|Java|
+|Caminho Mínimo|Algoritmo de aplicação do método de Dijkstra para encontrar caminho mínimo em grafos completos e com ciclos|Java|
