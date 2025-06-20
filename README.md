@@ -15,9 +15,5 @@ Os trabalhos estão organizados por tópicos ou entregas específicas da discipl
 | Caminho Mínimo              | Implementação do algoritmo de Dijkstra para encontrar caminhos mínimos em grafos direcionados. | Java      |
 | Caminhos Disjuntos (Fluxo Máximo) | Algoritmo baseado em Edmonds-Karp para encontrar o número máximo de caminhos disjuntos entre dois vértices, com análise de desempenho em grafos aleatórios e grids. Relatório incluso. | Java      |
 
-## 📘 Relatórios
-
-Cada implementação acompanha um relatório descritivo com resultados experimentais, tabelas e gráficos que comprovam o desempenho dos algoritmos aplicados aos diferentes tipos de grafos.
-
 ---
 
