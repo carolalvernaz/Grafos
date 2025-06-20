@@ -8,8 +8,16 @@ Os trabalhos estão organizados por tópicos ou entregas específicas da discipl
 
 ### ✅ Trabalhos entregues até o momento
 
-| Título | Descrição | Linguagem |
-|--------|-----------|-----------|
-|Lista de Adjacênca|Algoritmo de representação de um grafo como lista de adjacência|C|
-|Busca em Profundidade|Algoritmo de aplicação de busca em profundidade|C|
-|Caminho Mínimo|Algoritmo de aplicação do método de Dijkstra para encontrar caminho mínimo em grafos completos e com ciclos|Java|
+| Título                       | Descrição                                                                                     | Linguagem |
+|-----------------------------|-----------------------------------------------------------------------------------------------|-----------|
+| Lista de Adjacência         | Algoritmo para representar grafos como listas de adjacência.                                 | C         |
+| Busca em Profundidade       | Implementação da busca em profundidade (DFS) para percorrer grafos.                         | C         |
+| Caminho Mínimo              | Implementação do algoritmo de Dijkstra para encontrar caminhos mínimos em grafos direcionados. | Java      |
+| Caminhos Disjuntos (Fluxo Máximo) | Algoritmo baseado em Edmonds-Karp para encontrar o número máximo de caminhos disjuntos entre dois vértices, com análise de desempenho em grafos aleatórios e grids. Relatório incluso. | Java      |
+
+## 📘 Relatórios
+
+Cada implementação acompanha um relatório descritivo com resultados experimentais, tabelas e gráficos que comprovam o desempenho dos algoritmos aplicados aos diferentes tipos de grafos.
+
+---
+
